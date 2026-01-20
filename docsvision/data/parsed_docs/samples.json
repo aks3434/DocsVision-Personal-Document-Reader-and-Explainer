@@ -1,0 +1,2585 @@
+{
+  "source": "samples.pdf",
+  "blocks": [
+    {
+      "text": "5.",
+      "bbox": [
+        174,
+        2048,
+        213,
+        2088
+      ],
+      "confidence": 92.600098,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "BABU",
+      "bbox": [
+        632,
+        315,
+        780,
+        352
+      ],
+      "confidence": 93.29158,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "BANARASI",
+      "bbox": [
+        795,
+        314,
+        1076,
+        352
+      ],
+      "confidence": 91.308075,
+      "page": 1,
+      "block_type": "header"
+    },
+    {
+      "text": "DAS",
+      "bbox": [
+        1092,
+        314,
+        1197,
+        352
+      ],
+      "confidence": 96.904457,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "UNIVERSITY,",
+      "bbox": [
+        1214,
+        314,
+        1560,
+        360
+      ],
+      "confidence": 95.938889,
+      "page": 1,
+      "block_type": "header"
+    },
+    {
+      "text": "LUCKNOW",
+      "bbox": [
+        1576,
+        314,
+        1867,
+        352
+      ],
+      "confidence": 96.743988,
+      "page": 1,
+      "block_type": "header"
+    },
+    {
+      "text": "School",
+      "bbox": [
+        1017,
+        380,
+        1155,
+        415
+      ],
+      "confidence": 95.869736,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "of",
+      "bbox": [
+        1170,
+        380,
+        1213,
+        415
+      ],
+      "confidence": 96.152077,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Engineering",
+      "bbox": [
+        1223,
+        380,
+        1482,
+        425
+      ],
+      "confidence": 96.005081,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Department",
+      "bbox": [
+        713,
+        447,
+        970,
+        491
+      ],
+      "confidence": 96.761681,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "of",
+      "bbox": [
+        985,
+        446,
+        1028,
+        481
+      ],
+      "confidence": 95.388435,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Computer",
+      "bbox": [
+        1039,
+        446,
+        1255,
+        491
+      ],
+      "confidence": 95.388435,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Science",
+      "bbox": [
+        1272,
+        446,
+        1426,
+        481
+      ],
+      "confidence": 96.482544,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "and",
+      "bbox": [
+        1442,
+        447,
+        1520,
+        481
+      ],
+      "confidence": 95.795807,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Engineering",
+      "bbox": [
+        1534,
+        446,
+        1793,
+        491
+      ],
+      "confidence": 95.945518,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Odd",
+      "bbox": [
+        920,
+        511,
+        1012,
+        546
+      ],
+      "confidence": 96.11927,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Semester,",
+      "bbox": [
+        1028,
+        511,
+        1226,
+        553
+      ],
+      "confidence": 93.296783,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Session-2025-26",
+      "bbox": [
+        1243,
+        511,
+        1577,
+        546
+      ],
+      "confidence": 90.973907,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "ASSIGNMENT",
+      "bbox": [
+        1006,
+        577,
+        1340,
+        612
+      ],
+      "confidence": 92.365349,
+      "page": 1,
+      "block_type": "header"
+    },
+    {
+      "text": "NO-",
+      "bbox": [
+        1355,
+        577,
+        1454,
+        612
+      ],
+      "confidence": 88.813927,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "3",
+      "bbox": [
+        1468,
+        577,
+        1489,
+        612
+      ],
+      "confidence": 96.420235,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "BRANCH:-",
+      "bbox": [
+        264,
+        706,
+        511,
+        741
+      ],
+      "confidence": 73.094513,
+      "page": 1,
+      "block_type": "header"
+    },
+    {
+      "text": "CSE",
+      "bbox": [
+        527,
+        706,
+        620,
+        741
+      ],
+      "confidence": 96.686989,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "AI",
+      "bbox": [
+        635,
+        706,
+        689,
+        740
+      ],
+      "confidence": 96.032585,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Year/Section:-2\"/CSE",
+      "bbox": [
+        1479,
+        701,
+        1948,
+        741
+      ],
+      "confidence": 70.544739,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "AI2G/AI2H",
+      "bbox": [
+        1963,
+        706,
+        2215,
+        741
+      ],
+      "confidence": 90.975471,
+      "page": 1,
+      "block_type": "header"
+    },
+    {
+      "text": "SUBJECT:-DATA",
+      "bbox": [
+        266,
+        776,
+        652,
+        811
+      ],
+      "confidence": 92.412895,
+      "page": 1,
+      "block_type": "header"
+    },
+    {
+      "text": "STRUCTURE",
+      "bbox": [
+        667,
+        776,
+        970,
+        811
+      ],
+      "confidence": 95.814255,
+      "page": 1,
+      "block_type": "header"
+    },
+    {
+      "text": "USING",
+      "bbox": [
+        986,
+        776,
+        1143,
+        811
+      ],
+      "confidence": 91.948479,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "‘C’",
+      "bbox": [
+        1160,
+        776,
+        1222,
+        811
+      ],
+      "confidence": 87.816132,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "SUBJECT",
+      "bbox": [
+        1578,
+        776,
+        1799,
+        811
+      ],
+      "confidence": 92.731987,
+      "page": 1,
+      "block_type": "header"
+    },
+    {
+      "text": "CODE:-",
+      "bbox": [
+        1815,
+        776,
+        1989,
+        811
+      ],
+      "confidence": 91.945755,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "NCS",
+      "bbox": [
+        2004,
+        776,
+        2101,
+        811
+      ],
+      "confidence": 95.818665,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "4302",
+      "bbox": [
+        2117,
+        776,
+        2213,
+        811
+      ],
+      "confidence": 96.847374,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "Note:-",
+      "bbox": [
+        264,
+        902,
+        395,
+        936
+      ],
+      "confidence": 92.596588,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Attempt",
+      "bbox": [
+        409,
+        901,
+        586,
+        946
+      ],
+      "confidence": 96.07946,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "any",
+      "bbox": [
+        601,
+        911,
+        676,
+        946
+      ],
+      "confidence": 96.309326,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "5",
+      "bbox": [
+        691,
+        902,
+        712,
+        936
+      ],
+      "confidence": 96.729553,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "questions",
+      "bbox": [
+        729,
+        901,
+        925,
+        946
+      ],
+      "confidence": 96.573624,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "in",
+      "bbox": [
+        940,
+        901,
+        979,
+        935
+      ],
+      "confidence": 96.573624,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "brief:",
+      "bbox": [
+        994,
+        901,
+        1108,
+        936
+      ],
+      "confidence": 96.02713,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Blooms",
+      "bbox": [
+        2158,
+        971,
+        2314,
+        1005
+      ],
+      "confidence": 96.647247,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Questions",
+      "bbox": [
+        953,
+        1024,
+        1161,
+        1078
+      ],
+      "confidence": 96.24469,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Course",
+      "bbox": [
+        1906,
+        1028,
+        2055,
+        1063
+      ],
+      "confidence": 96.569489,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "|",
+      "bbox": [
+        2091,
+        1024,
+        2114,
+        1078
+      ],
+      "confidence": 93.725098,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Taxonomy",
+      "bbox": [
+        2136,
+        1029,
+        2356,
+        1073
+      ],
+      "confidence": 96.379463,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Outcome",
+      "bbox": [
+        1884,
+        1085,
+        2075,
+        1120
+      ],
+      "confidence": 96.676704,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Level",
+      "bbox": [
+        2188,
+        1086,
+        2303,
+        1120
+      ],
+      "confidence": 95.843758,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Q1.",
+      "bbox": [
+        277,
+        1151,
+        362,
+        1202
+      ],
+      "confidence": 76.158432,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "a).",
+      "bbox": [
+        382,
+        1152,
+        440,
+        1202
+      ],
+      "confidence": 96.071213,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Explain",
+      "bbox": [
+        458,
+        1151,
+        638,
+        1203
+      ],
+      "confidence": 95.915665,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "the",
+      "bbox": [
+        654,
+        1150,
+        722,
+        1192
+      ],
+      "confidence": 96.796806,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "advantages",
+      "bbox": [
+        740,
+        1151,
+        996,
+        1204
+      ],
+      "confidence": 96.469093,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "of",
+      "bbox": [
+        1014,
+        1151,
+        1066,
+        1192
+      ],
+      "confidence": 95.879204,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "linked",
+      "bbox": [
+        1077,
+        1150,
+        1221,
+        1192
+      ],
+      "confidence": 96.187164,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "list",
+      "bbox": [
+        1238,
+        1151,
+        1307,
+        1192
+      ],
+      "confidence": 96.187164,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "over",
+      "bbox": [
+        1323,
+        1164,
+        1426,
+        1192
+      ],
+      "confidence": 96.82708,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "arrays.",
+      "bbox": [
+        1442,
+        1164,
+        1592,
+        1204
+      ],
+      "confidence": 96.918243,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "b).",
+      "bbox": [
+        442,
+        1224,
+        505,
+        1274
+      ],
+      "confidence": 91.897949,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Write",
+      "bbox": [
+        529,
+        1223,
+        657,
+        1264
+      ],
+      "confidence": 96.406807,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "and",
+      "bbox": [
+        681,
+        1223,
+        763,
+        1264
+      ],
+      "confidence": 96.659256,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "explain",
+      "bbox": [
+        786,
+        1223,
+        956,
+        1275
+      ],
+      "confidence": 96.643791,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "the",
+      "bbox": [
+        978,
+        1222,
+        1046,
+        1264
+      ],
+      "confidence": 96.983917,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "algorithm",
+      "bbox": [
+        1071,
+        1222,
+        1295,
+        1276
+      ],
+      "confidence": 96.814034,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "for",
+      "bbox": [
+        1318,
+        1223,
+        1385,
+        1264
+      ],
+      "confidence": 96.952423,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "create",
+      "bbox": [
+        1407,
+        1229,
+        1542,
+        1264
+      ],
+      "confidence": 96.316544,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "and",
+      "bbox": [
+        1567,
+        1223,
+        1649,
+        1264
+      ],
+      "confidence": 96.389061,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "traverse]",
+      "bbox": [
+        1671,
+        1229,
+        1853,
+        1264
+      ],
+      "confidence": 65.925224,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "CO",
+      "bbox": [
+        1915,
+        1218,
+        1998,
+        1259
+      ],
+      "confidence": 71.596474,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "2",
+      "bbox": [
+        2016,
+        1219,
+        2041,
+        1258
+      ],
+      "confidence": 71.596474,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "K2",
+      "bbox": [
+        2200,
+        1219,
+        2270,
+        1258
+      ],
+      "confidence": 59.709824,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "operations",
+      "bbox": [
+        399,
+        1290,
+        638,
+        1342
+      ],
+      "confidence": 96.585777,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "in",
+      "bbox": [
+        657,
+        1290,
+        700,
+        1330
+      ],
+      "confidence": 95.646515,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "singly",
+      "bbox": [
+        718,
+        1290,
+        857,
+        1343
+      ],
+      "confidence": 95.646515,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "linked",
+      "bbox": [
+        874,
+        1289,
+        1017,
+        1331
+      ],
+      "confidence": 96.702301,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "list",
+      "bbox": [
+        1034,
+        1290,
+        1103,
+        1331
+      ],
+      "confidence": 96.946579,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "with",
+      "bbox": [
+        1118,
+        1289,
+        1221,
+        1331
+      ],
+      "confidence": 96.441086,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "example.",
+      "bbox": [
+        1238,
+        1290,
+        1444,
+        1342
+      ],
+      "confidence": 96.422363,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Q2.",
+      "bbox": [
+        277,
+        1388,
+        362,
+        1439
+      ],
+      "confidence": 80.733719,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "Differentiate",
+      "bbox": [
+        380,
+        1388,
+        674,
+        1429
+      ],
+      "confidence": 95.974831,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "between",
+      "bbox": [
+        690,
+        1387,
+        884,
+        1429
+      ],
+      "confidence": 95.893082,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "singly",
+      "bbox": [
+        902,
+        1388,
+        1042,
+        1441
+      ],
+      "confidence": 96.406837,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "and",
+      "bbox": [
+        1058,
+        1388,
+        1140,
+        1429
+      ],
+      "confidence": 96.744659,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "doubly",
+      "bbox": [
+        1157,
+        1387,
+        1317,
+        1441
+      ],
+      "confidence": 96.257401,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "linked",
+      "bbox": [
+        1334,
+        1387,
+        1477,
+        1429
+      ],
+      "confidence": 96.451378,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "list?",
+      "bbox": [
+        1494,
+        1388,
+        1587,
+        1429
+      ],
+      "confidence": 96.775902,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Write",
+      "bbox": [
+        1605,
+        1388,
+        1732,
+        1429
+      ],
+      "confidence": 96.33445,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "and",
+      "bbox": [
+        1751,
+        1388,
+        1833,
+        1429
+      ],
+      "confidence": 96.536339,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "explain",
+      "bbox": [
+        277,
+        1455,
+        447,
+        1507
+      ],
+      "confidence": 96.522308,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "the",
+      "bbox": [
+        463,
+        1454,
+        531,
+        1496
+      ],
+      "confidence": 96.305222,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "algorithm",
+      "bbox": [
+        549,
+        1454,
+        774,
+        1508
+      ],
+      "confidence": 96.091331,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "for",
+      "bbox": [
+        791,
+        1455,
+        857,
+        1496
+      ],
+      "confidence": 96.797325,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "insert",
+      "bbox": [
+        873,
+        1455,
+        1001,
+        1496
+      ],
+      "confidence": 96.391609,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "and",
+      "bbox": [
+        1017,
+        1455,
+        1099,
+        1496
+      ],
+      "confidence": 96.391609,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "create",
+      "bbox": [
+        1116,
+        1461,
+        1251,
+        1496
+      ],
+      "confidence": 96.837036,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "operations",
+      "bbox": [
+        1270,
+        1455,
+        1509,
+        1507
+      ],
+      "confidence": 96.599266,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "in",
+      "bbox": [
+        1527,
+        1455,
+        1570,
+        1495
+      ],
+      "confidence": 96.801804,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "doubly",
+      "bbox": [
+        1587,
+        1454,
+        1747,
+        1508
+      ],
+      "confidence": 96.191467,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "linked",
+      "bbox": [
+        277,
+        1521,
+        421,
+        1563
+      ],
+      "confidence": 96.624969,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "list",
+      "bbox": [
+        438,
+        1522,
+        507,
+        1563
+      ],
+      "confidence": 96.440826,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "with",
+      "bbox": [
+        522,
+        1521,
+        625,
+        1563
+      ],
+      "confidence": 96.0047,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "example.",
+      "bbox": [
+        642,
+        1522,
+        847,
+        1574
+      ],
+      "confidence": 96.706032,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Q3.a).",
+      "bbox": [
+        277,
+        1613,
+        425,
+        1664
+      ],
+      "confidence": 92.506348,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "Explain",
+      "bbox": [
+        443,
+        1613,
+        623,
+        1665
+      ],
+      "confidence": 95.823235,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "the",
+      "bbox": [
+        639,
+        1612,
+        707,
+        1654
+      ],
+      "confidence": 95.823235,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "circular",
+      "bbox": [
+        726,
+        1613,
+        903,
+        1654
+      ],
+      "confidence": 96.570686,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "linked",
+      "bbox": [
+        918,
+        1612,
+        1062,
+        1654
+      ],
+      "confidence": 96.425697,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "list",
+      "bbox": [
+        1079,
+        1613,
+        1148,
+        1654
+      ],
+      "confidence": 96.735817,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "in",
+      "bbox": [
+        1165,
+        1613,
+        1208,
+        1653
+      ],
+      "confidence": 96.621056,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "detail.",
+      "bbox": [
+        1225,
+        1613,
+        1362,
+        1654
+      ],
+      "confidence": 96.564903,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "b).Write",
+      "bbox": [
+        371,
+        1685,
+        565,
+        1736
+      ],
+      "confidence": 89.638092,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "an",
+      "bbox": [
+        584,
+        1698,
+        636,
+        1726
+      ],
+      "confidence": 96.116539,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "algorithm",
+      "bbox": [
+        653,
+        1684,
+        877,
+        1738
+      ],
+      "confidence": 96.116539,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "for",
+      "bbox": [
+        894,
+        1685,
+        961,
+        1726
+      ],
+      "confidence": 96.887764,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "insert",
+      "bbox": [
+        977,
+        1685,
+        1104,
+        1726
+      ],
+      "confidence": 95.785172,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "a",
+      "bbox": [
+        1121,
+        1698,
+        1145,
+        1726
+      ],
+      "confidence": 95.785172,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "node",
+      "bbox": [
+        1161,
+        1685,
+        1271,
+        1726
+      ],
+      "confidence": 96.705963,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "at",
+      "bbox": [
+        1289,
+        1691,
+        1329,
+        1726
+      ],
+      "confidence": 96.7929,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "desired",
+      "bbox": [
+        1346,
+        1685,
+        1512,
+        1726
+      ],
+      "confidence": 96.685715,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "position",
+      "bbox": [
+        1527,
+        1685,
+        1715,
+        1737
+      ],
+      "confidence": 96.380791,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "and",
+      "bbox": [
+        1731,
+        1685,
+        1813,
+        1726
+      ],
+      "confidence": 96.489189,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "delete",
+      "bbox": [
+        299,
+        1752,
+        435,
+        1793
+      ],
+      "confidence": 96.705009,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "a",
+      "bbox": [
+        453,
+        1765,
+        477,
+        1793
+      ],
+      "confidence": 96.476151,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "node",
+      "bbox": [
+        492,
+        1752,
+        603,
+        1793
+      ],
+      "confidence": 96.476151,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "at",
+      "bbox": [
+        621,
+        1758,
+        661,
+        1793
+      ],
+      "confidence": 96.785149,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "beginning",
+      "bbox": [
+        676,
+        1751,
+        908,
+        1805
+      ],
+      "confidence": 96.520233,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "in",
+      "bbox": [
+        926,
+        1752,
+        969,
+        1792
+      ],
+      "confidence": 96.904076,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "singly",
+      "bbox": [
+        987,
+        1752,
+        1126,
+        1805
+      ],
+      "confidence": 96.441597,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "linked",
+      "bbox": [
+        1143,
+        1751,
+        1286,
+        1793
+      ],
+      "confidence": 96.441597,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "list.",
+      "bbox": [
+        1303,
+        1752,
+        1382,
+        1793
+      ],
+      "confidence": 96.214775,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Q4.a).",
+      "bbox": [
+        277,
+        1851,
+        425,
+        1902
+      ],
+      "confidence": 89.959404,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "Explain",
+      "bbox": [
+        443,
+        1851,
+        623,
+        1903
+      ],
+      "confidence": 96.614746,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Garbage",
+      "bbox": [
+        640,
+        1850,
+        834,
+        1904
+      ],
+      "confidence": 96.233536,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "collection",
+      "bbox": [
+        852,
+        1851,
+        1080,
+        1892
+      ],
+      "confidence": 93.267166,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "&",
+      "bbox": [
+        1097,
+        1851,
+        1138,
+        1892
+      ],
+      "confidence": 92.728867,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "compaction",
+      "bbox": [
+        1157,
+        1851,
+        1426,
+        1903
+      ],
+      "confidence": 96.800308,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "in",
+      "bbox": [
+        1443,
+        1851,
+        1486,
+        1891
+      ],
+      "confidence": 96.343887,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "link",
+      "bbox": [
+        1503,
+        1850,
+        1593,
+        1891
+      ],
+      "confidence": 96.343887,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "list.",
+      "bbox": [
+        1608,
+        1851,
+        1688,
+        1892
+      ],
+      "confidence": 96.837799,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "b).",
+      "bbox": [
+        371,
+        1923,
+        434,
+        1973
+      ],
+      "confidence": 90.288391,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "What",
+      "bbox": [
+        452,
+        1921,
+        577,
+        1963
+      ],
+      "confidence": 96.532341,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "is",
+      "bbox": [
+        594,
+        1922,
+        629,
+        1963
+      ],
+      "confidence": 96.248581,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Circular",
+      "bbox": [
+        647,
+        1922,
+        837,
+        1963
+      ],
+      "confidence": 96.385361,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Queue.",
+      "bbox": [
+        853,
+        1922,
+        1013,
+        1973
+      ],
+      "confidence": 96.47155,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Explain",
+      "bbox": [
+        1033,
+        1922,
+        1214,
+        1974
+      ],
+      "confidence": 96.136414,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Two",
+      "bbox": [
+        1230,
+        1923,
+        1329,
+        1963
+      ],
+      "confidence": 96.212097,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "way",
+      "bbox": [
+        1346,
+        1935,
+        1443,
+        1975
+      ],
+      "confidence": 96.655899,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "header",
+      "bbox": [
+        1458,
+        1921,
+        1613,
+        1963
+      ],
+      "confidence": 96.428024,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "list.",
+      "bbox": [
+        1629,
+        1922,
+        1709,
+        1963
+      ],
+      "confidence": 96.651093,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Q5.What",
+      "bbox": [
+        277,
+        2046,
+        491,
+        2098
+      ],
+      "confidence": 91.738724,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "is",
+      "bbox": [
+        507,
+        2047,
+        543,
+        2088
+      ],
+      "confidence": 96.585381,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "stack?",
+      "bbox": [
+        562,
+        2046,
+        703,
+        2088
+      ],
+      "confidence": 96.585381,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Solve",
+      "bbox": [
+        723,
+        2047,
+        850,
+        2088
+      ],
+      "confidence": 96.453743,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "the",
+      "bbox": [
+        867,
+        2046,
+        936,
+        2088
+      ],
+      "confidence": 96.453743,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "following",
+      "bbox": [
+        954,
+        2047,
+        1178,
+        2100
+      ],
+      "confidence": 96.469856,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "expression",
+      "bbox": [
+        1195,
+        2047,
+        1443,
+        2099
+      ],
+      "confidence": 96.427719,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "using",
+      "bbox": [
+        1457,
+        2047,
+        1583,
+        2100
+      ],
+      "confidence": 96.337257,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "stack.",
+      "bbox": [
+        1601,
+        2046,
+        1728,
+        2088
+      ],
+      "confidence": 96.853096,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "(i).",
+      "bbox": [
+        321,
+        2119,
+        384,
+        2171
+      ],
+      "confidence": 94.719261,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "(A",
+      "bbox": [
+        405,
+        2119,
+        483,
+        2171
+      ],
+      "confidence": 65.157082,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "-(B+C)*",
+      "bbox": [
+        501,
+        2119,
+        751,
+        2171
+      ],
+      "confidence": 60.652573,
+      "page": 1,
+      "block_type": "header"
+    },
+    {
+      "text": "D)/(E+F))",
+      "bbox": [
+        771,
+        2118,
+        1063,
+        2171
+      ],
+      "confidence": 60.652573,
+      "page": 1,
+      "block_type": "header"
+    },
+    {
+      "text": "_",
+      "bbox": [
+        1081,
+        2113,
+        1108,
+        2175
+      ],
+      "confidence": 41.962013,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "[Infix",
+      "bbox": [
+        1144,
+        2119,
+        1276,
+        2170
+      ],
+      "confidence": 91.093765,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "to",
+      "bbox": [
+        1293,
+        2123,
+        1338,
+        2160
+      ],
+      "confidence": 96.679466,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "postfix]",
+      "bbox": [
+        1356,
+        2119,
+        1536,
+        2171
+      ],
+      "confidence": 95.473587,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "(ii).",
+      "bbox": [
+        321,
+        2190,
+        400,
+        2242
+      ],
+      "confidence": 83.990593,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "(A",
+      "bbox": [
+        422,
+        2190,
+        480,
+        2242
+      ],
+      "confidence": 58.876438,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "+B)+*C-(D-E)*F",
+      "bbox": [
+        497,
+        2190,
+        1032,
+        2242
+      ],
+      "confidence": 58.876438,
+      "page": 1,
+      "block_type": "header"
+    },
+    {
+      "text": "[Infix",
+      "bbox": [
+        1157,
+        2190,
+        1289,
+        2241
+      ],
+      "confidence": 92.321396,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "to",
+      "bbox": [
+        1306,
+        2194,
+        1351,
+        2231
+      ],
+      "confidence": 96.936028,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "prefix]",
+      "bbox": [
+        1369,
+        2190,
+        1529,
+        2242
+      ],
+      "confidence": 92.329849,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "(iii).",
+      "bbox": [
+        321,
+        2262,
+        417,
+        2314
+      ],
+      "confidence": 83.178017,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "712",
+      "bbox": [
+        472,
+        2263,
+        520,
+        2302
+      ],
+      "confidence": 94.209808,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "+",
+      "bbox": [
+        539,
+        2267,
+        570,
+        2298
+      ],
+      "confidence": 85.945419,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "*154-/-",
+      "bbox": [
+        589,
+        2261,
+        798,
+        2303
+      ],
+      "confidence": 85.945419,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "[Evaluate",
+      "bbox": [
+        865,
+        2263,
+        1097,
+        2313
+      ],
+      "confidence": 90.872902,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "the",
+      "bbox": [
+        1114,
+        2263,
+        1189,
+        2303
+      ],
+      "confidence": 96.750275,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "given",
+      "bbox": [
+        1207,
+        2262,
+        1337,
+        2315
+      ],
+      "confidence": 96.680984,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "postfix",
+      "bbox": [
+        1354,
+        2262,
+        1520,
+        2314
+      ],
+      "confidence": 96.659004,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "expressions]",
+      "bbox": [
+        1538,
+        2262,
+        1833,
+        2314
+      ],
+      "confidence": 87.624977,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Q6.",
+      "bbox": [
+        277,
+        2416,
+        362,
+        2467
+      ],
+      "confidence": 88.43261,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "What",
+      "bbox": [
+        380,
+        2415,
+        505,
+        2457
+      ],
+      "confidence": 95.412071,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "is",
+      "bbox": [
+        522,
+        2416,
+        557,
+        2457
+      ],
+      "confidence": 95.412071,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Doubly",
+      "bbox": [
+        574,
+        2415,
+        748,
+        2469
+      ],
+      "confidence": 96.439034,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "link",
+      "bbox": [
+        765,
+        2415,
+        854,
+        2456
+      ],
+      "confidence": 96.55735,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "list?",
+      "bbox": [
+        870,
+        2416,
+        963,
+        2457
+      ],
+      "confidence": 96.462891,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Write",
+      "bbox": [
+        981,
+        2416,
+        1108,
+        2457
+      ],
+      "confidence": 96.217575,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "an",
+      "bbox": [
+        1127,
+        2429,
+        1180,
+        2457
+      ],
+      "confidence": 96.72303,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "algorithm",
+      "bbox": [
+        1196,
+        2415,
+        1421,
+        2469
+      ],
+      "confidence": 96.234863,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "or",
+      "bbox": [
+        1438,
+        2429,
+        1485,
+        2457
+      ],
+      "confidence": 93.114456,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "C",
+      "bbox": [
+        1501,
+        2416,
+        1536,
+        2457
+      ],
+      "confidence": 93.114456,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "program:",
+      "bbox": [
+        1552,
+        2429,
+        1761,
+        2469
+      ],
+      "confidence": 96.420944,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "(1).",
+      "bbox": [
+        307,
+        2488,
+        370,
+        2540
+      ],
+      "confidence": 94.817139,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "To",
+      "bbox": [
+        391,
+        2489,
+        447,
+        2529
+      ],
+      "confidence": 95.829117,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "delete",
+      "bbox": [
+        466,
+        2488,
+        601,
+        2529
+      ],
+      "confidence": 96.331657,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "an",
+      "bbox": [
+        620,
+        2501,
+        673,
+        2529
+      ],
+      "confidence": 96.331657,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "element",
+      "bbox": [
+        689,
+        2488,
+        872,
+        2529
+      ],
+      "confidence": 96.851913,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "from",
+      "bbox": [
+        888,
+        2488,
+        999,
+        2529
+      ],
+      "confidence": 96.49086,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "intermediate",
+      "bbox": [
+        1016,
+        2488,
+        1304,
+        2529
+      ],
+      "confidence": 96.48233,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "doubly",
+      "bbox": [
+        1322,
+        2487,
+        1482,
+        2541
+      ],
+      "confidence": 96.386055,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "link",
+      "bbox": [
+        1499,
+        2487,
+        1588,
+        2528
+      ],
+      "confidence": 96.967545,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "list.",
+      "bbox": [
+        1604,
+        2488,
+        1683,
+        2529
+      ],
+      "confidence": 95.166733,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "(11).",
+      "bbox": [
+        307,
+        2559,
+        386,
+        2611
+      ],
+      "confidence": 91.451767,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "To",
+      "bbox": [
+        407,
+        2560,
+        463,
+        2600
+      ],
+      "confidence": 96.973869,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "delete",
+      "bbox": [
+        482,
+        2559,
+        618,
+        2600
+      ],
+      "confidence": 96.091888,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "a",
+      "bbox": [
+        636,
+        2572,
+        660,
+        2600
+      ],
+      "confidence": 96.91494,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "node",
+      "bbox": [
+        675,
+        2559,
+        786,
+        2600
+      ],
+      "confidence": 95.606422,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "from",
+      "bbox": [
+        804,
+        2559,
+        915,
+        2600
+      ],
+      "confidence": 95.606422,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "end",
+      "bbox": [
+        932,
+        2559,
+        1014,
+        2600
+      ],
+      "confidence": 96.845535,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "position",
+      "bbox": [
+        1029,
+        2559,
+        1217,
+        2611
+      ],
+      "confidence": 96.011909,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "in",
+      "bbox": [
+        1233,
+        2559,
+        1277,
+        2599
+      ],
+      "confidence": 96.65255,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "doubly",
+      "bbox": [
+        1293,
+        2558,
+        1453,
+        2612
+      ],
+      "confidence": 96.609055,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "link",
+      "bbox": [
+        1470,
+        2558,
+        1559,
+        2599
+      ],
+      "confidence": 94.080086,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "list.",
+      "bbox": [
+        1575,
+        2559,
+        1654,
+        2600
+      ],
+      "confidence": 96.339905,
+      "page": 1,
+      "block_type": "paragraph"
+    }
+  ]
+}

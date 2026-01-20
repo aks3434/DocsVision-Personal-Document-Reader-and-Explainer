@@ -1,0 +1,2177 @@
+{
+  "source": "sample.png",
+  "blocks": [
+    {
+      "text": "BABU",
+      "bbox": [
+        327,
+        43,
+        379,
+        56
+      ],
+      "confidence": 92.6931,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "BANARASI",
+      "bbox": [
+        387,
+        42,
+        489,
+        56
+      ],
+      "confidence": 92.65786,
+      "page": 1,
+      "block_type": "header"
+    },
+    {
+      "text": "DAS",
+      "bbox": [
+        497,
+        42,
+        535,
+        56
+      ],
+      "confidence": 96.810814,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "UNIVERSITY",
+      "bbox": [
+        542,
+        42,
+        665,
+        56
+      ],
+      "confidence": 95.658134,
+      "page": 1,
+      "block_type": "header"
+    },
+    {
+      "text": "ASSIGNMENT",
+      "bbox": [
+        310,
+        74,
+        443,
+        88
+      ],
+      "confidence": 93.191772,
+      "page": 1,
+      "block_type": "header"
+    },
+    {
+      "text": "-",
+      "bbox": [
+        448,
+        83,
+        459,
+        84
+      ],
+      "confidence": 8.963936,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "1",
+      "bbox": [
+        465,
+        75,
+        471,
+        88
+      ],
+      "confidence": 89.615677,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "-",
+      "bbox": [
+        479,
+        82,
+        485,
+        84
+      ],
+      "confidence": 89.615677,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "ODD",
+      "bbox": [
+        491,
+        75,
+        534,
+        88
+      ],
+      "confidence": 96.712471,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Semester",
+      "bbox": [
+        540,
+        74,
+        617,
+        88
+      ],
+      "confidence": 96.733765,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "2025-26",
+      "bbox": [
+        623,
+        74,
+        688,
+        88
+      ],
+      "confidence": 96.930199,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "Programme:",
+      "bbox": [
+        59,
+        99,
+        165,
+        116
+      ],
+      "confidence": 95.988579,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "B.Tech",
+      "bbox": [
+        173,
+        98,
+        230,
+        112
+      ],
+      "confidence": 96.456795,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Semester",
+      "bbox": [
+        530,
+        98,
+        607,
+        112
+      ],
+      "confidence": 93.079308,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": ":",
+      "bbox": [
+        614,
+        103,
+        617,
+        112
+      ],
+      "confidence": 83.441254,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "3°",
+      "bbox": [
+        624,
+        96,
+        652,
+        112
+      ],
+      "confidence": 0.0,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "Subject",
+      "bbox": [
+        59,
+        122,
+        122,
+        141
+      ],
+      "confidence": 96.661804,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Code:",
+      "bbox": [
+        128,
+        122,
+        177,
+        136
+      ],
+      "confidence": 93.288368,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "NCS4301",
+      "bbox": [
+        185,
+        122,
+        259,
+        136
+      ],
+      "confidence": 92.052307,
+      "page": 1,
+      "block_type": "header"
+    },
+    {
+      "text": "Subject:",
+      "bbox": [
+        530,
+        122,
+        599,
+        140
+      ],
+      "confidence": 93.301651,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "DSTL",
+      "bbox": [
+        606,
+        122,
+        654,
+        136
+      ],
+      "confidence": 92.56591,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "M.M.",
+      "bbox": [
+        836,
+        123,
+        882,
+        136
+      ],
+      "confidence": 75.945053,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "10",
+      "bbox": [
+        891,
+        122,
+        907,
+        136
+      ],
+      "confidence": 93.547562,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "KLI-",
+      "bbox": [
+        530,
+        147,
+        572,
+        160
+      ],
+      "confidence": 37.195221,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Remembering",
+      "bbox": [
+        579,
+        146,
+        690,
+        163
+      ],
+      "confidence": 96.579651,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "KL4-",
+      "bbox": [
+        742,
+        146,
+        784,
+        160
+      ],
+      "confidence": 89.250206,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "Analyzing",
+      "bbox": [
+        790,
+        146,
+        872,
+        164
+      ],
+      "confidence": 96.767479,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Knowledge",
+      "bbox": [
+        59,
+        169,
+        149,
+        187
+      ],
+      "confidence": 96.55928,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Level",
+      "bbox": [
+        157,
+        169,
+        200,
+        183
+      ],
+      "confidence": 96.353371,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "(KL)",
+      "bbox": [
+        207,
+        169,
+        245,
+        187
+      ],
+      "confidence": 96.353371,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "KL2-",
+      "bbox": [
+        530,
+        170,
+        572,
+        184
+      ],
+      "confidence": 86.679001,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "Understanding",
+      "bbox": [
+        579,
+        170,
+        695,
+        184
+      ],
+      "confidence": 95.281281,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "KLS5-",
+      "bbox": [
+        742,
+        171,
+        784,
+        184
+      ],
+      "confidence": 59.069374,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "Evaluating",
+      "bbox": [
+        791,
+        170,
+        876,
+        184
+      ],
+      "confidence": 96.769028,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "KL3-",
+      "bbox": [
+        530,
+        194,
+        572,
+        208
+      ],
+      "confidence": 92.836746,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "Applying",
+      "bbox": [
+        578,
+        194,
+        653,
+        212
+      ],
+      "confidence": 96.921844,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "KL6-",
+      "bbox": [
+        742,
+        194,
+        784,
+        208
+      ],
+      "confidence": 52.952152,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "Creating",
+      "bbox": [
+        790,
+        194,
+        858,
+        212
+      ],
+      "confidence": 96.394524,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        59,
+        222,
+        97,
+        235
+      ],
+      "confidence": 96.964203,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "of",
+      "bbox": [
+        104,
+        221,
+        121,
+        235
+      ],
+      "confidence": 92.618645,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Assignment-04/10/2025",
+      "bbox": [
+        125,
+        221,
+        322,
+        239
+      ],
+      "confidence": 92.397095,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        530,
+        222,
+        569,
+        235
+      ],
+      "confidence": 96.953262,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "of",
+      "bbox": [
+        575,
+        221,
+        592,
+        235
+      ],
+      "confidence": 93.306244,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "submission-13/10/2025",
+      "bbox": [
+        597,
+        221,
+        787,
+        235
+      ],
+      "confidence": 92.250595,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "Write",
+      "bbox": [
+        109,
+        292,
+        152,
+        306
+      ],
+      "confidence": 96.556244,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "the",
+      "bbox": [
+        159,
+        292,
+        182,
+        306
+      ],
+      "confidence": 96.556244,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "properties",
+      "bbox": [
+        188,
+        292,
+        267,
+        310
+      ],
+      "confidence": 96.749588,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "of",
+      "bbox": [
+        273,
+        292,
+        291,
+        306
+      ],
+      "confidence": 96.749588,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "group.",
+      "bbox": [
+        295,
+        297,
+        344,
+        310
+      ],
+      "confidence": 95.923546,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Show",
+      "bbox": [
+        352,
+        292,
+        396,
+        306
+      ],
+      "confidence": 95.923546,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "that",
+      "bbox": [
+        402,
+        292,
+        431,
+        306
+      ],
+      "confidence": 96.978508,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "the",
+      "bbox": [
+        437,
+        292,
+        460,
+        306
+      ],
+      "confidence": 93.291817,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "set(1,",
+      "bbox": [
+        467,
+        293,
+        509,
+        310
+      ],
+      "confidence": 92.186058,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "2,",
+      "bbox": [
+        515,
+        292,
+        529,
+        307
+      ],
+      "confidence": 95.574783,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "3,",
+      "bbox": [
+        536,
+        292,
+        549,
+        307
+      ],
+      "confidence": 95.574783,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "4,",
+      "bbox": [
+        555,
+        292,
+        569,
+        307
+      ],
+      "confidence": 93.830643,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "5)",
+      "bbox": [
+        576,
+        293,
+        591,
+        310
+      ],
+      "confidence": 93.830643,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "is",
+      "bbox": [
+        598,
+        292,
+        609,
+        306
+      ],
+      "confidence": 95.822449,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "not",
+      "bbox": [
+        616,
+        295,
+        640,
+        306
+      ],
+      "confidence": 96.98494,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "group",
+      "bbox": [
+        646,
+        297,
+        691,
+        310
+      ],
+      "confidence": 96.882233,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "under",
+      "bbox": [
+        698,
+        292,
+        742,
+        306
+      ],
+      "confidence": 96.905586,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "addition",
+      "bbox": [
+        748,
+        292,
+        812,
+        306
+      ],
+      "confidence": 96.250641,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "CO2",
+      "bbox": [
+        853,
+        292,
+        889,
+        306
+      ],
+      "confidence": 85.477997,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "|",
+      "bbox": [
+        894,
+        288,
+        903,
+        315
+      ],
+      "confidence": 89.954239,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "KL3",
+      "bbox": [
+        910,
+        292,
+        943,
+        306
+      ],
+      "confidence": 89.954239,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "and",
+      "bbox": [
+        108,
+        326,
+        136,
+        340
+      ],
+      "confidence": 96.569061,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "multiplication",
+      "bbox": [
+        142,
+        326,
+        253,
+        344
+      ],
+      "confidence": 96.569061,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "modulo",
+      "bbox": [
+        260,
+        326,
+        319,
+        340
+      ],
+      "confidence": 96.629799,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "6.",
+      "bbox": [
+        326,
+        326,
+        338,
+        340
+      ],
+      "confidence": 96.902649,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "Show",
+      "bbox": [
+        108,
+        362,
+        151,
+        376
+      ],
+      "confidence": 96.955299,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "that",
+      "bbox": [
+        157,
+        362,
+        190,
+        376
+      ],
+      "confidence": 96.924797,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "group",
+      "bbox": [
+        195,
+        366,
+        242,
+        380
+      ],
+      "confidence": 92.378517,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "(G,",
+      "bbox": [
+        249,
+        362,
+        269,
+        379
+      ],
+      "confidence": 90.758232,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "+s)",
+      "bbox": [
+        276,
+        362,
+        298,
+        379
+      ],
+      "confidence": 83.878418,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "is",
+      "bbox": [
+        305,
+        363,
+        315,
+        376
+      ],
+      "confidence": 88.092575,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "a",
+      "bbox": [
+        322,
+        366,
+        329,
+        376
+      ],
+      "confidence": 88.092575,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "cyclic",
+      "bbox": [
+        336,
+        362,
+        378,
+        380
+      ],
+      "confidence": 91.060364,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "group",
+      "bbox": [
+        383,
+        366,
+        430,
+        380
+      ],
+      "confidence": 96.469521,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "where",
+      "bbox": [
+        436,
+        362,
+        486,
+        376
+      ],
+      "confidence": 93.273315,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "G",
+      "bbox": [
+        492,
+        363,
+        503,
+        376
+      ],
+      "confidence": 93.273315,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "=",
+      "bbox": [
+        510,
+        368,
+        518,
+        373
+      ],
+      "confidence": 96.401756,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "10,",
+      "bbox": [
+        525,
+        363,
+        547,
+        379
+      ],
+      "confidence": 96.401756,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "1,",
+      "bbox": [
+        555,
+        363,
+        567,
+        379
+      ],
+      "confidence": 96.441475,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "C02",
+      "bbox": [
+        853,
+        362,
+        889,
+        376
+      ],
+      "confidence": 47.343239,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "|",
+      "bbox": [
+        895,
+        352,
+        904,
+        385
+      ],
+      "confidence": 66.689209,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "KL3",
+      "bbox": [
+        910,
+        362,
+        943,
+        376
+      ],
+      "confidence": 85.487038,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "2,",
+      "bbox": [
+        109,
+        388,
+        121,
+        404
+      ],
+      "confidence": 96.410667,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "3,",
+      "bbox": [
+        128,
+        388,
+        141,
+        404
+      ],
+      "confidence": 94.551147,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "4).",
+      "bbox": [
+        147,
+        387,
+        167,
+        404
+      ],
+      "confidence": 94.551147,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "What",
+      "bbox": [
+        174,
+        387,
+        217,
+        401
+      ],
+      "confidence": 95.291832,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "are",
+      "bbox": [
+        223,
+        391,
+        247,
+        401
+      ],
+      "confidence": 94.671608,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "its",
+      "bbox": [
+        254,
+        388,
+        271,
+        401
+      ],
+      "confidence": 94.671608,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "generators?",
+      "bbox": [
+        277,
+        388,
+        373,
+        406
+      ],
+      "confidence": 96.223465,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "What",
+      "bbox": [
+        109,
+        412,
+        150,
+        426
+      ],
+      "confidence": 96.463867,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "do",
+      "bbox": [
+        157,
+        412,
+        175,
+        426
+      ],
+      "confidence": 96.668213,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "you",
+      "bbox": [
+        181,
+        417,
+        210,
+        430
+      ],
+      "confidence": 96.668213,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "mean",
+      "bbox": [
+        217,
+        417,
+        259,
+        426
+      ],
+      "confidence": 96.888237,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "by",
+      "bbox": [
+        265,
+        412,
+        284,
+        430
+      ],
+      "confidence": 96.702995,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "cosets",
+      "bbox": [
+        290,
+        415,
+        337,
+        426
+      ],
+      "confidence": 96.702995,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "of",
+      "bbox": [
+        344,
+        412,
+        373,
+        426
+      ],
+      "confidence": 96.487885,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "a",
+      "bbox": [
+        369,
+        402,
+        375,
+        434
+      ],
+      "confidence": 96.487885,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "subgroup?",
+      "bbox": [
+        380,
+        412,
+        461,
+        430
+      ],
+      "confidence": 93.640648,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Consider",
+      "bbox": [
+        468,
+        412,
+        539,
+        426
+      ],
+      "confidence": 93.640648,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "the",
+      "bbox": [
+        545,
+        412,
+        568,
+        426
+      ],
+      "confidence": 93.595123,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "group",
+      "bbox": [
+        574,
+        417,
+        620,
+        430
+      ],
+      "confidence": 93.257774,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Z",
+      "bbox": [
+        626,
+        413,
+        637,
+        426
+      ],
+      "confidence": 93.243073,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "of",
+      "bbox": [
+        643,
+        412,
+        661,
+        426
+      ],
+      "confidence": 97.013641,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "integers",
+      "bbox": [
+        666,
+        412,
+        727,
+        430
+      ],
+      "confidence": 96.954468,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "under",
+      "bbox": [
+        733,
+        412,
+        778,
+        426
+      ],
+      "confidence": 96.752632,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "02",
+      "bbox": [
+        853,
+        412,
+        889,
+        426
+      ],
+      "confidence": 37.856964,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "|",
+      "bbox": [
+        894,
+        402,
+        903,
+        434
+      ],
+      "confidence": 92.32756,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "KL3",
+      "bbox": [
+        910,
+        412,
+        943,
+        426
+      ],
+      "confidence": 90.66111,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "addition",
+      "bbox": [
+        108,
+        446,
+        173,
+        460
+      ],
+      "confidence": 96.614136,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "and",
+      "bbox": [
+        179,
+        446,
+        206,
+        460
+      ],
+      "confidence": 96.982384,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "the",
+      "bbox": [
+        213,
+        446,
+        236,
+        460
+      ],
+      "confidence": 96.982384,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "subgroup.",
+      "bbox": [
+        242,
+        446,
+        320,
+        464
+      ],
+      "confidence": 93.26683,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "H",
+      "bbox": [
+        327,
+        447,
+        339,
+        460
+      ],
+      "confidence": 86.721306,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "=....,",
+      "bbox": [
+        346,
+        451,
+        385,
+        463
+      ],
+      "confidence": 77.456924,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "-",
+      "bbox": [
+        392,
+        455,
+        397,
+        456
+      ],
+      "confidence": 77.456924,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "12,",
+      "bbox": [
+        407,
+        446,
+        427,
+        463
+      ],
+      "confidence": 62.576435,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "-",
+      "bbox": [
+        434,
+        455,
+        439,
+        456
+      ],
+      "confidence": 62.576435,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "6,",
+      "bbox": [
+        446,
+        447,
+        459,
+        463
+      ],
+      "confidence": 84.99852,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "0,",
+      "bbox": [
+        466,
+        446,
+        479,
+        463
+      ],
+      "confidence": 84.99852,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "6,",
+      "bbox": [
+        486,
+        447,
+        499,
+        463
+      ],
+      "confidence": 91.831795,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "12,",
+      "bbox": [
+        508,
+        446,
+        529,
+        463
+      ],
+      "confidence": 93.434387,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "....)",
+      "bbox": [
+        536,
+        447,
+        561,
+        464
+      ],
+      "confidence": 88.84996,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "considering",
+      "bbox": [
+        567,
+        446,
+        660,
+        464
+      ],
+      "confidence": 96.836349,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "of",
+      "bbox": [
+        666,
+        446,
+        683,
+        460
+      ],
+      "confidence": 97.005363,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "multiple",
+      "bbox": [
+        687,
+        446,
+        752,
+        464
+      ],
+      "confidence": 96.832352,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "of",
+      "bbox": [
+        759,
+        446,
+        789,
+        460
+      ],
+      "confidence": 96.820724,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "6",
+      "bbox": [
+        784,
+        436,
+        792,
+        468
+      ],
+      "confidence": 96.820724,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "i.",
+      "bbox": [
+        175,
+        480,
+        183,
+        494
+      ],
+      "confidence": 86.639946,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Find",
+      "bbox": [
+        190,
+        480,
+        225,
+        494
+      ],
+      "confidence": 96.9589,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "the",
+      "bbox": [
+        232,
+        480,
+        255,
+        494
+      ],
+      "confidence": 96.963989,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "cosets",
+      "bbox": [
+        261,
+        483,
+        309,
+        494
+      ],
+      "confidence": 96.964088,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "of",
+      "bbox": [
+        315,
+        480,
+        349,
+        494
+      ],
+      "confidence": 93.273361,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "H",
+      "bbox": [
+        337,
+        476,
+        345,
+        503
+      ],
+      "confidence": 92.229698,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "in",
+      "bbox": [
+        357,
+        480,
+        370,
+        494
+      ],
+      "confidence": 88.725327,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Z.",
+      "bbox": [
+        376,
+        481,
+        392,
+        494
+      ],
+      "confidence": 81.256485,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "ii.",
+      "bbox": [
+        175,
+        515,
+        189,
+        529
+      ],
+      "confidence": 68.637001,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "What",
+      "bbox": [
+        196,
+        515,
+        238,
+        529
+      ],
+      "confidence": 96.755997,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "is",
+      "bbox": [
+        245,
+        515,
+        256,
+        529
+      ],
+      "confidence": 96.805122,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "the",
+      "bbox": [
+        262,
+        515,
+        285,
+        529
+      ],
+      "confidence": 96.04657,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "index",
+      "bbox": [
+        292,
+        515,
+        335,
+        529
+      ],
+      "confidence": 96.875977,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "of",
+      "bbox": [
+        341,
+        515,
+        375,
+        529
+      ],
+      "confidence": 93.053757,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "H",
+      "bbox": [
+        364,
+        511,
+        372,
+        538
+      ],
+      "confidence": 93.053757,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "in",
+      "bbox": [
+        383,
+        515,
+        396,
+        529
+      ],
+      "confidence": 92.113953,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Z.",
+      "bbox": [
+        402,
+        516,
+        418,
+        529
+      ],
+      "confidence": 89.362511,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Explain",
+      "bbox": [
+        109,
+        550,
+        169,
+        568
+      ],
+      "confidence": 96.143845,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "types",
+      "bbox": [
+        175,
+        553,
+        216,
+        568
+      ],
+      "confidence": 95.089493,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "of",
+      "bbox": [
+        219,
+        540,
+        236,
+        572
+      ],
+      "confidence": 96.864311,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "lattice.",
+      "bbox": [
+        237,
+        550,
+        296,
+        564
+      ],
+      "confidence": 86.664886,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Let",
+      "bbox": [
+        304,
+        551,
+        329,
+        564
+      ],
+      "confidence": 94.686722,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "A",
+      "bbox": [
+        335,
+        551,
+        348,
+        564
+      ],
+      "confidence": 96.41758,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "=",
+      "bbox": [
+        354,
+        555,
+        364,
+        556
+      ],
+      "confidence": 92.468506,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "(1,",
+      "bbox": [
+        371,
+        551,
+        390,
+        568
+      ],
+      "confidence": 90.551086,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "2,",
+      "bbox": [
+        397,
+        550,
+        410,
+        567
+      ],
+      "confidence": 95.186279,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "3,",
+      "bbox": [
+        417,
+        550,
+        430,
+        567
+      ],
+      "confidence": 93.878159,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "4,",
+      "bbox": [
+        437,
+        550,
+        450,
+        567
+      ],
+      "confidence": 93.878159,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "6,",
+      "bbox": [
+        457,
+        551,
+        470,
+        567
+      ],
+      "confidence": 96.425407,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "8,",
+      "bbox": [
+        478,
+        551,
+        490,
+        567
+      ],
+      "confidence": 94.19059,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "9,",
+      "bbox": [
+        497,
+        550,
+        510,
+        567
+      ],
+      "confidence": 94.19059,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "12,",
+      "bbox": [
+        520,
+        550,
+        540,
+        567
+      ],
+      "confidence": 94.725388,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "18,",
+      "bbox": [
+        550,
+        551,
+        570,
+        567
+      ],
+      "confidence": 96.883812,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "24)",
+      "bbox": [
+        577,
+        550,
+        602,
+        567
+      ],
+      "confidence": 96.711388,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "be",
+      "bbox": [
+        609,
+        550,
+        626,
+        564
+      ],
+      "confidence": 96.977348,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "ordered",
+      "bbox": [
+        633,
+        550,
+        693,
+        564
+      ],
+      "confidence": 96.961548,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "set",
+      "bbox": [
+        699,
+        553,
+        720,
+        564
+      ],
+      "confidence": 96.795837,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "with",
+      "bbox": [
+        726,
+        550,
+        760,
+        564
+      ],
+      "confidence": 96.92215,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "relation",
+      "bbox": [
+        767,
+        550,
+        826,
+        564
+      ],
+      "confidence": 95.122681,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "|",
+      "bbox": [
+        841,
+        540,
+        852,
+        572
+      ],
+      "confidence": 91.635437,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "CO2",
+      "bbox": [
+        853,
+        550,
+        889,
+        564
+      ],
+      "confidence": 90.793472,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "|",
+      "bbox": [
+        897,
+        540,
+        905,
+        572
+      ],
+      "confidence": 83.415207,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "KL3",
+      "bbox": [
+        910,
+        550,
+        943,
+        564
+      ],
+      "confidence": 83.415207,
+      "page": 1,
+      "block_type": "key_value"
+    },
+    {
+      "text": "\"*",
+      "bbox": [
+        109,
+        585,
+        124,
+        593
+      ],
+      "confidence": 65.88591,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "divides",
+      "bbox": [
+        131,
+        585,
+        188,
+        599
+      ],
+      "confidence": 93.30619,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "y\".",
+      "bbox": [
+        194,
+        585,
+        215,
+        603
+      ],
+      "confidence": 88.334778,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Draw",
+      "bbox": [
+        223,
+        586,
+        266,
+        599
+      ],
+      "confidence": 96.829704,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "its",
+      "bbox": [
+        272,
+        585,
+        289,
+        599
+      ],
+      "confidence": 94.682373,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "Hasse",
+      "bbox": [
+        296,
+        586,
+        342,
+        599
+      ],
+      "confidence": 96.709877,
+      "page": 1,
+      "block_type": "paragraph"
+    },
+    {
+      "text": "diagram.",
+      "bbox": [
+        348,
+        585,
+        417,
+        603
+      ],
+      "confidence": 96.506744,
+      "page": 1,
+      "block_type": "paragraph"
+    }
+  ]
+}
