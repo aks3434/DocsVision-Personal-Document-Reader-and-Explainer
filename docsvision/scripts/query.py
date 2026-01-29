@@ -11,6 +11,23 @@ from docsvision.core.retriever import DocsVisionRetriever
 from docsvision.core.llm import get_llm
 from docsvision.core.llm import get_fast_llm
 from docsvision.rag.chain import build_rag_chain
+from streamlit import session_state
+
+
+def extract_clean_text(doc_model):
+    texts = []
+
+    for block in doc_model["blocks"]:
+        if isinstance(block, str):
+            if block.strip():
+                texts.append(block.strip())
+
+        elif isinstance(block, dict):
+            text = block.get("text", "").strip()
+            if text:
+                texts.append(text)
+
+    return texts
 
 
 def is_meta_document_question(question: str) -> bool:
@@ -112,15 +129,24 @@ def init_rag_runtime():
 from langchain_core.documents import Document
 
 def ingest_doc_model_into_vectordb(doc_model, vectordb, chunk_size=500):
-    texts = doc_model["blocks"]
+    blocks = doc_model["blocks"]
 
+    texts = []
+    for block in blocks:
+        # handle dict-based blocks
+        if isinstance(block, dict):
+            text = block.get("text", "").strip()
+        else:
+            text = str(block).strip()
+
+        if text:
+            texts.append(text)
+
+    # -------- Chunking --------
     chunks = []
     current = ""
 
     for text in texts:
-        if not text.strip():
-            continue
-
         if len(current) + len(text) <= chunk_size:
             current += " " + text
         else:
@@ -130,21 +156,35 @@ def ingest_doc_model_into_vectordb(doc_model, vectordb, chunk_size=500):
     if current.strip():
         chunks.append(current.strip())
 
-    #build Document
-    docs =[]
+    # -------- Store --------
+    docs = []
     for i, chunk in enumerate(chunks):
         docs.append(
             Document(
                 page_content=chunk,
-                metadata={
-                "source": "uploaded_document",
-                "page": i // 3 + 1
-            }
+                metadata={"page": i // 3 + 1}
+            )
         )
-    )
-
 
     vectordb.add_documents(docs)
+
+def summarize_document_from_model(doc_model, llm):
+    texts = extract_clean_text(doc_model)
+
+    if not texts:
+        return "No readable text was found in the document."
+
+    joined = "\n".join(texts[:50])  # limit for safety
+
+    prompt = (
+        "Summarize the following document content. "
+        "Do NOT describe OCR, metadata, or data structures. "
+        "Only summarize the document itself.\n\n"
+        + joined
+    )
+
+    return llm.invoke(prompt).content
+
 
 
 
@@ -153,7 +193,16 @@ def answer_query_from_ui(question: str, runtime: dict):
     fast_llm = runtime["fast_llm"]
     smart_llm = runtime["smart_llm"]
     rag_chain = runtime["rag_chain"]
+    vectordb = runtime["vectordb"]
 
+    # 🔥 PRIORITY 1: META DOCUMENT QUESTIONS (NO INTENT CLASSIFIER)
+    if is_meta_document_question(question):
+        return summarize_document_from_model(
+            session_state.doc_model,
+            runtime["smart_llm"]
+        )
+
+    # 🔽 ONLY AFTER THAT: intent classification
     intent = classify_intent(fast_llm, question)
 
     if intent not in {
@@ -178,19 +227,6 @@ def answer_query_from_ui(question: str, runtime: dict):
     if intent == "DOC_STRICT":
         docs = retriever.retriever.invoke(question)
 
-        if is_meta_document_question(question):
-            # Direct document summary path
-            all_docs = runtime["vectordb"].get()["documents"][:10]
-
-            summary_prompt = (
-                "Summarize the following document:\n\n"
-                + "\n\n".join(all_docs)
-                )
-
-            answer = smart_llm.invoke(summary_prompt)
-            return answer.content
-
-
         result = rag_chain.invoke(question)
         answer_text = result.content if hasattr(result, "content") else str(result)
         sources = format_citations(docs)
@@ -214,9 +250,3 @@ def answer_query_from_ui(question: str, runtime: dict):
             f"📚 Document Context:\n{format_citations(docs)}\n\n"
             "⚠️ Note: This explanation is based on general knowledge."
         )
-
-
-
-     
-
-
