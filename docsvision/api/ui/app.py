@@ -10,7 +10,7 @@ from docsvision.scripts.query import (
     ingest_doc_model_into_vectordb,
 )
 
-# ---------------- Session State ----------------
+#-------------- Session State ----------------
 if "doc_model" not in st.session_state:
     st.session_state.doc_model = None
 
@@ -25,6 +25,7 @@ if "doc_ingested" not in st.session_state:
 
 if "rag_runtime" not in st.session_state:
     st.session_state.rag_runtime = None
+
 
 # ---------------- Page Config ----------------
 st.set_page_config(page_title="DocsVision AI", layout="wide")
@@ -43,6 +44,27 @@ with st.sidebar:
         "Upload PDF or Image",
         type=["pdf", "png", "jpg", "jpeg"]
     )
+
+import hashlib
+
+def file_hash(uploaded_file):
+    return hashlib.md5(uploaded_file.getvalue()).hexdigest()
+
+if uploaded_file is not None:
+    new_hash = file_hash(uploaded_file)
+
+    if st.session_state.get("file_hash") != new_hash:
+        st.session_state.file_hash = new_hash
+        st.session_state.doc_ingested = False
+        st.session_state.doc_model = None     
+        st.session_state.ocr_result = None     
+
+        # 🔥 clear vector DB for new document
+        vectordb = st.session_state.rag_runtime["vectordb"]
+        existing = vectordb.get()
+        if existing and existing.get("ids"):
+            vectordb.delete(ids=existing["ids"])
+
 
 # ---------------- Document Processing ----------------
 if uploaded_file and st.session_state.doc_model is None:
@@ -63,6 +85,7 @@ if uploaded_file and st.session_state.doc_model is None:
     st.sidebar.success("Document processed successfully ✅")
 
 # ---------------- Safe Ingestion (ONCE) ----------------
+
 if (
     st.session_state.doc_model is not None
     and st.session_state.rag_runtime is not None
